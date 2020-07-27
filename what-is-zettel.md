@@ -9,4 +9,7 @@ Zettel dựa trên các khái niệm được lấy từ các nguồn văn bản
 1. ***Nguyên tắc nguyên tử***: mỗi ghi chép chỉ nên chứa 1 ý.
 2. ***Nguyên tắc độc lập***: mỗi ghi chép nên có đủ ý, không phụ thuộc vào các ghi chép khác, ngay cả khi không còn nguồn nó vẫn dễ hiểu. 
 3. ***Luôn liên kết***: khi thêm 1 ghi chép mới vào thì phải ***gắn liên kết*** cho nó với các ghi chép sẵn có. Chất lượng của 1 ghi chép nằm ở  mối liên kết của nó với hệ chi thức sẵn có
-4. 
+
+
+
+https://dqnotes.com/hoc/zettelkasten/
