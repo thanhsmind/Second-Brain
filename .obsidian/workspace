@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "a21fd69cb0750070",
+    "type": "split",
+    "children": [
+      {
+        "id": "00a307f513850394",
+        "type": "split",
+        "children": [
+          {
+            "id": "ebca94fd0d155a71",
+            "type": "leaf",
+            "dimension": 59.4159113796576,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "270720201518onedaybenjaminfrankin.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0c45d809e22d6b09",
+            "type": "leaf",
+            "dimension": 40.5840886203424,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c7a31dd65ef2c5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c214d466864b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a6350f67f834f7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c172259dd6b60e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b95a9438587ca7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e84e80ffd6901a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a64f7a8e115ebeb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "a12bab0e0bf14a01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "270720201518onedaybenjaminfrankin.md",
+    "Untitled.md",
+    "202007271536.md",
+    "readme.md",
+    "ZettelkastenMethod.md"
+  ]
+}
