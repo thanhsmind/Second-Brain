@@ -1,5 +1,15 @@
 # One day of Benjamin Franklin
 
+### Tiểu sử của Benjamin Franklin
+***Benjamin Franklin*** là tổng thống Hoa Kỳ. Ông tham gia rất nhiều lĩnh vực cùng một lúc nhưng vẫn đạt những kết quả rất sâu và đáng ghi nhận, ông tham gia: 
+- Ông là 1 chính trị gia
+- Nhà khoa học
+- Nhà văn
+- Thợ in
+- Triết gia
+- Nhà phát minh, ông phát minh ra cột chống sét
+- Nhà khoa học, khám vá ra nhiều lý thuyết về điện
+- Nhà ngoại giao hàng đầu.
 ### Những điều học hỏi từ lịch làm việc của Benjamin Franklin
 - Luôn xem lại mục đích làm việc theo từng ngày xem ngày hôm đó mình đã làm gì tốt hơn ngày hôm trước
 	 1. Buổi sáng "What good shall I do this day?" (Điều gì tốt nhất tôi nên làm hôm nay?)
