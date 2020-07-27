@@ -15,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "270720201518onedaybenjaminfrankin.md",
+                "file": "ZettelkastenMethod.md",
                 "mode": "source"
               }
             }
@@ -24,9 +24,11 @@
             "id": "0c45d809e22d6b09",
             "type": "leaf",
             "dimension": 40.5840886203424,
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ],
@@ -63,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b95a9438587ca7e",
@@ -98,10 +99,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "ZettelkastenMethod.md",
     "270720201518onedaybenjaminfrankin.md",
-    "Untitled.md",
-    "202007271536.md",
+    "270720201317methodlearn.md",
     "readme.md",
-    "ZettelkastenMethod.md"
+    "Untitled.md"
   ]
 }
