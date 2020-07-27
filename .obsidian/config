@@ -11,7 +11,7 @@
     "Word count": true,
     "Tag pane": true,
     "Page preview": true,
-    "Daily notes": true,
+    "Daily notes": false,
     "Zettelkasten prefixer": true,
     "Random note": true
   },

@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00a307f513850394",
-        "type": "split",
-        "children": [
-          {
-            "id": "ebca94fd0d155a71",
-            "type": "leaf",
-            "dimension": 59.4159113796576,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZettelkastenMethod.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0c45d809e22d6b09",
-            "type": "leaf",
-            "dimension": 40.5840886203424,
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
+        "id": "0bb24ed6e3345311",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "what-is-zettel.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -99,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "ZettelkastenMethod.md",
-    "270720201518onedaybenjaminfrankin.md",
-    "270720201317methodlearn.md",
-    "readme.md",
-    "Untitled.md"
+    "what-is-zettel.md",
+    "what-is-good-zettel.md",
+    "zettelkasten-method.md",
+    "definedZettelkasten.md",
+    "zettelstructure.md"
   ]
 }
