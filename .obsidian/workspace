@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "readme.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -81,9 +81,9 @@
   },
   "lastOpenFiles": [
     "readme.md",
+    "aws.md",
     "aws-edge-location.md",
     "images/how-cloudfront-delivers-content.png",
-    "aws-cloudfront.md",
-    "aws-solutions-architect-associate-certificate.md"
+    "aws-cloudfront.md"
   ]
 }
