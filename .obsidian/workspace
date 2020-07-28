@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aws-edge-location.md",
-            "mode": "source"
+            "file": "readme.md",
+            "mode": "preview"
           }
         }
       }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "readme.md",
     "aws-edge-location.md",
     "images/how-cloudfront-delivers-content.png",
     "aws-cloudfront.md",
-    "aws-solutions-architect-associate-certificate.md",
-    "aws-s3.md"
+    "aws-solutions-architect-associate-certificate.md"
   ]
 }
