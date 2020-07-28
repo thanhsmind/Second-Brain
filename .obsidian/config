@@ -16,5 +16,6 @@
     "Random note": true
   },
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "images"
 }

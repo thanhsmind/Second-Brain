@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "abfcc40464447818",
+        "id": "0680f7ea2bedb4a7",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "aws-edge-location.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -43,8 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b95a9438587ca7e",
@@ -78,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "aws-s3.md",
-    "readme.md",
-    "aws-iam.md",
+    "aws-edge-location.md",
+    "images/how-cloudfront-delivers-content.png",
+    "aws-cloudfront.md",
     "aws-solutions-architect-associate-certificate.md",
-    "aws-region-zone.md"
+    "aws-s3.md"
   ]
 }
