@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "__layouts/page.html.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "__layouts/page.html.md",
+    "__layouts/home.html.md",
+    "Untitled.md",
     "readme.md",
-    "aws.md",
-    "aws-edge-location.md",
-    "images/how-cloudfront-delivers-content.png",
-    "aws-cloudfront.md"
+    "aws.md"
   ]
 }
