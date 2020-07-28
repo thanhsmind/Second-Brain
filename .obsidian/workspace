@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0bb24ed6e3345311",
+        "id": "abfcc40464447818",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "what-is-zettel.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -46,7 +43,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b95a9438587ca7e",
@@ -80,10 +78,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "what-is-zettel.md",
-    "what-is-good-zettel.md",
-    "zettelkasten-method.md",
-    "definedZettelkasten.md",
-    "zettelstructure.md"
+    "aws-s3.md",
+    "readme.md",
+    "aws-iam.md",
+    "aws-solutions-architect-associate-certificate.md",
+    "aws-region-zone.md"
   ]
 }
