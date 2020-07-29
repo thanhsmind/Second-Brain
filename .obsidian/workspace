@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aws.md",
+            "file": "aws-solutions-architect-associate-certificate.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "aws-solutions-architect-associate-certificate.md",
     "aws.md",
     "readme.md",
     "__layouts/page.html.md",
-    "__layouts/home.html.md",
-    "Untitled.md"
+    "__layouts/home.html.md"
   ]
 }
