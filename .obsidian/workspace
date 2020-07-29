@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__layouts/page.html.md",
+            "file": "aws.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "aws.md",
+    "readme.md",
     "__layouts/page.html.md",
     "__layouts/home.html.md",
-    "Untitled.md",
-    "readme.md",
-    "aws.md"
+    "Untitled.md"
   ]
 }
