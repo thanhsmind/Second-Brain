@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettel-structure.md",
+            "file": "_layouts/default.html.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "zettel-structure.md",
     "zettelkasten-method.md",
     "aws.md",
-    "aws-cloudfront.md",
-    "what-is-zettel.md"
+    "aws-cloudfront.md"
   ]
 }
