@@ -10,7 +10,7 @@
 	1. Nếu 1 concept phức tạp thì nên tách nhỏ thành nhiều zettel, tạo ra 1 zettel chính dùng để liên kết dạng ***Prerequisite*** các zettel nhỏ lại với nhau
 		1. Các prerequisite zettel này nên được nghiên cứu và làm rõ nhất có thể
 		2. 1 zettel này có thể được dùng cho nhiều concept độc lập khác
-5. Sử dụng kỹ thuật ***Separation Concerns*** để tách nhỏ 1 concept phức tạp.
+5. Sử dụng kỹ thuật ***[[separation-concerns]]*** để tách nhỏ 1 concept phức tạp.
 6. Sử dụng example giúp note rõ ràng dễ hiểu hơn (nếu có )
 
 ### Mục đích của 1 Zettel

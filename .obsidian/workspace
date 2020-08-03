@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_layouts/default.html.md",
+            "file": "method-learn.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "zettel-structure.md",
+    "method-learn.md",
+    "ky-thuat-hoc-nhanh-fegman.md",
     "zettelkasten-method.md",
-    "aws.md",
-    "aws-cloudfront.md"
+    "readme.md",
+    "method-reading.md"
   ]
 }
