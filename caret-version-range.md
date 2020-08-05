@@ -5,7 +5,6 @@
 
 *Lưu ý: Với version nhỏ hơn 1 thì nó luôn tăng khá an toàn. `"^0.3.2", // >=0.3.2 <0.4.0 `
 
-
 ```
 "require": {
      // ^ | doesn't allow breaking changes (major version fixed - following semver)
