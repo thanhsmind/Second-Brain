@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "php-composer-version.md",
+            "file": "caret-version-range.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "caret-version-range.md",
     "php-composer-version.md",
-    "Untitled.md",
-    "programming-language.md",
-    "readme.md",
-    "php.md"
+    "tilde-version-range.md",
+    "semantic-versioning.md",
+    "Untitled.md"
   ]
 }
