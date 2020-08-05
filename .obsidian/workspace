@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "method-learn.md",
+            "file": "php-composer-version.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "method-learn.md",
-    "ky-thuat-hoc-nhanh-fegman.md",
-    "zettelkasten-method.md",
+    "php-composer-version.md",
+    "Untitled.md",
+    "programming-language.md",
     "readme.md",
-    "method-reading.md"
+    "php.md"
   ]
 }
