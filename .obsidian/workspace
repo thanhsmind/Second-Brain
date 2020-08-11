@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202008111613.md",
+            "file": "method-reading.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "method-reading.md",
+    "202008111608.md",
     "202008111613.md",
     "aws-edge-location.md",
-    "aws-cloudfront.md",
-    "what-is-zettel.md",
-    "method-reading.md"
+    "aws-cloudfront.md"
   ]
 }

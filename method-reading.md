@@ -1,6 +1,13 @@
 # Method Reading 
 #zettel #productivity 
 
+Phương pháp đọc sách hiệu quả SQ3R 
+1. Tìm hiểu (***S***urvey) cuốn sách. Lướt qua toàn bộ cuốn sách bằng cách nhìn lướt để cảm nhận cuốn sách.
+2. ***Q***uestion Đặt câu hỏi, tò mò tìm hiểu về cuốn sách
+3. ***R***ead Đọc nhanh 
+4. ***R***eview Xem lại các ý chính và bổ xung thông tin
+5. ***R***ecite Sau khi đọc xong gom lại các ghi chú và xử lý tiếp ( Viết bài tổng hợp)
+
 2 bước trong quá trình đọc sách 
 1. [[202008111608]]: Làm sao đọc nhanh và  nhiều sách 
 2. [[202008111539]]: Làm sao để đọc sâu hiểu kỹ 1 cuốn sách
