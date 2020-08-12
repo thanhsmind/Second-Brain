@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "method-reading.md",
+            "file": "programming-language.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "programming-language.md",
+    "202008121135.md",
+    "202008111748.md",
     "method-reading.md",
-    "202008111608.md",
-    "202008111613.md",
-    "aws-edge-location.md",
-    "aws-cloudfront.md"
+    "202008111608.md"
   ]
 }
