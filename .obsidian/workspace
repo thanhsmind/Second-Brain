@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming-language.md",
+            "file": "Boy-Scout-Rule-cleancode-uncle-bob.md",
             "mode": "source"
           }
         }
@@ -46,7 +46,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b95a9438587ca7e",
@@ -80,10 +81,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "programming-language.md",
-    "202008121135.md",
-    "202008111748.md",
-    "method-reading.md",
-    "202008111608.md"
+    "Boy-Scout-Rule-cleancode-uncle-bob.md",
+    "Code-Coverage-Best-Practices.md",
+    "Code Coverage Best Practices.md",
+    "ky-thuat-hoc-nhanh-fegman.md",
+    "computer-science.md"
   ]
 }
