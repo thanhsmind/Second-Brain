@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boy-Scout-Rule-cleancode-uncle-bob.md",
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -46,8 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b95a9438587ca7e",
@@ -81,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "readme.md",
     "Boy-Scout-Rule-cleancode-uncle-bob.md",
     "Code-Coverage-Best-Practices.md",
     "Code Coverage Best Practices.md",
-    "ky-thuat-hoc-nhanh-fegman.md",
-    "computer-science.md"
+    "ky-thuat-hoc-nhanh-fegman.md"
   ]
 }
