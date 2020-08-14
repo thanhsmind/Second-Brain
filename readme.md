@@ -11,6 +11,7 @@
 - [[computer-science]]: Computer Science
 - [[computer-networking]]: Computer Networking
 - [[programming-language]]: Programming Languages
+- [[machine-learning]]: Machine Learning
 - [[test]]: Test
  
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "machine-learning-road-map.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "machine-learning-road-map.md",
+    "machine-learning.md",
     "readme.md",
     "Boy-Scout-Rule-cleancode-uncle-bob.md",
-    "Code-Coverage-Best-Practices.md",
-    "Code Coverage Best Practices.md",
-    "ky-thuat-hoc-nhanh-fegman.md"
+    "Code-Coverage-Best-Practices.md"
   ]
 }
