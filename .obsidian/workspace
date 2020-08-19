@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Defining-an-Algorithm.md",
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "readme.md",
     "Defining-an-Algorithm.md",
     "computational-method.md",
     "the-art-of-computer-programming-knuth-vol1.md",
-    "how-to-understand-algorithm.md",
-    "computer-science.md"
+    "how-to-understand-algorithm.md"
   ]
 }
