@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0680f7ea2bedb4a7",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "machine-learning-road-map.md",
-            "mode": "source"
+        "id": "8191e91475ea054b",
+        "type": "split",
+        "children": [
+          {
+            "id": "0680f7ea2bedb4a7",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computational-method.md",
+                "mode": "source"
+              }
+            },
+            "group": "f4c3f4da375708d4"
+          },
+          {
+            "id": "a8a69453206a8d60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "computational-method.md"
+              }
+            },
+            "group": "f4c3f4da375708d4"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -80,10 +99,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "machine-learning-road-map.md",
-    "machine-learning.md",
-    "readme.md",
-    "Boy-Scout-Rule-cleancode-uncle-bob.md",
-    "Code-Coverage-Best-Practices.md"
+    "computational-method.md",
+    "the-art-of-computer-programming-knuth-vol1.md",
+    "Defining-an-Algorithm.md",
+    "how-to-understand-algorithm.md",
+    "computer-science.md"
   ]
 }
