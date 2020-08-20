@@ -14,8 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "taocp-exercises-basic-concepts.md",
+                "file": "the-art-of-computer-programming-knuth-vol1.md",
                 "mode": "source"
+              }
+            },
+            "group": "d626e8128316206d"
+          },
+          {
+            "id": "02712bbce83bf076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "the-art-of-computer-programming-knuth-vol1.md"
               }
             },
             "group": "d626e8128316206d"
@@ -26,7 +37,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taocp-exercises-basic-concepts.md"
+                "file": "the-art-of-computer-programming-knuth-vol1.md"
               }
             },
             "group": "d626e8128316206d"
@@ -99,10 +110,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "the-art-of-computer-programming-knuth-vol1.md",
+    "how-to-understand-algorithm.md",
     "taocp-exercises-basic-concepts.md",
     "gcd.md",
-    "Defining-an-Algorithm.md",
-    "the-art-of-computer-programming-knuth-vol1.md",
-    "doc-ky-hieu-toan.md"
+    "Defining-an-Algorithm.md"
   ]
 }
