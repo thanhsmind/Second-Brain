@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0680f7ea2bedb4a7",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Defining-an-Algorithm.md",
-            "mode": "source"
+        "id": "0231987c5ba5a84c",
+        "type": "split",
+        "children": [
+          {
+            "id": "0680f7ea2bedb4a7",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "taocp-exercises-basic-concepts.md",
+                "mode": "source"
+              }
+            },
+            "group": "d626e8128316206d"
+          },
+          {
+            "id": "efb24ada4c2ae4ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "taocp-exercises-basic-concepts.md"
+              }
+            },
+            "group": "d626e8128316206d"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -80,10 +99,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "taocp-exercises-basic-concepts.md",
+    "gcd.md",
     "Defining-an-Algorithm.md",
-    "readme.md",
-    "computational-method.md",
     "the-art-of-computer-programming-knuth-vol1.md",
-    "how-to-understand-algorithm.md"
+    "doc-ky-hieu-toan.md"
   ]
 }
