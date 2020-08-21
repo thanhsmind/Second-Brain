@@ -4,46 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0231987c5ba5a84c",
-        "type": "split",
-        "children": [
-          {
-            "id": "0680f7ea2bedb4a7",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-art-of-computer-programming-knuth-vol1.md",
-                "mode": "source"
-              }
-            },
-            "group": "d626e8128316206d"
-          },
-          {
-            "id": "02712bbce83bf076",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "the-art-of-computer-programming-knuth-vol1.md"
-              }
-            },
-            "group": "d626e8128316206d"
-          },
-          {
-            "id": "efb24ada4c2ae4ad",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "the-art-of-computer-programming-knuth-vol1.md"
-              }
-            },
-            "group": "d626e8128316206d"
+        "id": "0680f7ea2bedb4a7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "computer-science.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -110,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "computer-science.md",
+    "Defining-an-Algorithm.md",
     "the-art-of-computer-programming-knuth-vol1.md",
     "how-to-understand-algorithm.md",
-    "taocp-exercises-basic-concepts.md",
-    "gcd.md",
-    "Defining-an-Algorithm.md"
+    "taocp-exercises-basic-concepts.md"
   ]
 }
