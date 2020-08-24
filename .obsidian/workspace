@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-science.md",
-            "mode": "source"
+            "file": "doc-ky-hieu-toan.md",
+            "mode": "preview"
           }
         }
       }
@@ -61,7 +61,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "doc-ky-hieu-toan.md"
+              }
             }
           },
           {
@@ -80,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "doc-ky-hieu-toan.md",
+    "the-art-of-computer-programming-knuth-vol1.md",
     "computer-science.md",
     "Defining-an-Algorithm.md",
-    "the-art-of-computer-programming-knuth-vol1.md",
-    "how-to-understand-algorithm.md",
-    "taocp-exercises-basic-concepts.md"
+    "how-to-understand-algorithm.md"
   ]
 }
