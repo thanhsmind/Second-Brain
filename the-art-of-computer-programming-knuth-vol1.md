@@ -14,3 +14,4 @@ https://math.stackexchange.com/questions/85565/motivation-behind-the-definition-
 https://readingtaocp.wordpress.com/2008/09/17/sec-12-mathematical-preliminaries/
 https://www-cs-faculty.stanford.edu/~knuth/gkp.html
 https://code.jsoftware.com/wiki/Books#Calculus
+https://dominhhai.github.io/vi/2018/04/softmax-derivs/

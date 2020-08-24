@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0680f7ea2bedb4a7",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "doc-ky-hieu-toan.md",
-            "mode": "preview"
+        "id": "840f60ee1669ce1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "0680f7ea2bedb4a7",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the-art-of-computer-programming-knuth-vol1.md",
+                "mode": "source"
+              }
+            },
+            "group": "b2f25886e5b22fe9"
+          },
+          {
+            "id": "280f0127655f3765",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "the-art-of-computer-programming-knuth-vol1.md"
+              }
+            },
+            "group": "b2f25886e5b22fe9"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -62,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doc-ky-hieu-toan.md"
+                "file": "the-art-of-computer-programming-knuth-vol1.md"
               }
             }
           },
@@ -82,8 +101,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "doc-ky-hieu-toan.md",
     "the-art-of-computer-programming-knuth-vol1.md",
+    "doc-ky-hieu-toan.md",
     "computer-science.md",
     "Defining-an-Algorithm.md",
     "how-to-understand-algorithm.md"
