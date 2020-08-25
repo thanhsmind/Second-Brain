@@ -3,6 +3,8 @@
 - [[how-to-understand-algorithm]]: How to understand algorithm?
 - [[Defining-an-Algorithm]]: Defining an Algorithm
 - [[doc-ky-hieu-toan]]: Cách đọc các ký tự toán học
+- [[202008251133-ky-hieu-do-kho-bai-tap]]: Ký hiệu độ khó bài tập trong sách
+
 
 
 https://www.rudikershaw.com/articles/computationalmethod
