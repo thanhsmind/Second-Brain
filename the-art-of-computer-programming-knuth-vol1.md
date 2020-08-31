@@ -4,6 +4,7 @@
 - [[Defining-an-Algorithm]]: Defining an Algorithm
 - [[doc-ky-hieu-toan]]: Cách đọc các ký tự toán học
 - [[202008251133-ky-hieu-do-kho-bai-tap]]: Ký hiệu độ khó bài tập trong sách
+- [[202008251541-tu-dien-toan-anh-viet]]: Từ điển Anh việt Toán 
 
 
 

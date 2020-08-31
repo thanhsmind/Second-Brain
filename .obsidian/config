@@ -22,7 +22,8 @@
     "backlink:open-backlinks": [
       {
         "modifiers": [
-          "Mod"
+          "Mod",
+          "Shift"
         ],
         "key": "ArrowLeft"
       }
