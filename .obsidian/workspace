@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202008311527-kien-thuc-toan-trong-linh-vuc-Data-Science.md",
-            "mode": "preview"
+            "file": "doc-ky-hieu-toan.md",
+            "mode": "source"
           }
         }
       }
@@ -46,8 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b95a9438587ca7e",
@@ -63,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202008311527-kien-thuc-toan-trong-linh-vuc-Data-Science.md"
+                "file": "doc-ky-hieu-toan.md"
               }
             }
           },
@@ -83,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "doc-ky-hieu-toan.md",
     "202008311527-Kiến-Thức-Toán-Trong-Lĩnh-Vực-Data-Science.md",
     "202008311524-logarit.md",
     "machine-learning.md",
-    "readme.md",
-    "202008311527.md"
+    "readme.md"
   ]
 }

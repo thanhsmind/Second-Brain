@@ -1,6 +1,7 @@
 # Kiến Thức Toán Trong Lĩnh Vực Data Science
 #datascience 
 
+
 Để bắt đầu học Machine Learning hay Data Science, người học sẽ bị choáng ngợp bởi khối lượng kiến thức đồ sộ liên quan đến lĩnh vực Toán học. Đây cũng là điều hiển nhiên bởi Toán học luôn là nền tảng cho bất kỳ ngành Khoa học đương đại nào. 
 Sự vững chắc về nền tảng toán học hình thành đằng sau các thuật toán sẽ tạo cho bạn một lợi thế không hề nhỏ so khi nghiên cứu và làm việc ở lĩnh vực Data Science. Bởi hơn hết, doanh nghiệp luôn chỉ trả rất nhiều tiền cho công nghệ bên trong máy móc thay vì người vận hành vốn không có bất kỳ kiến thức chuyên sâu nào về chúng. 
 Bảo gửi đến các bạn ví dụ để tìm hiểu chuyên sâu hơn cho quy trình khoa học phổ biến trong xử lý âm thanh:
