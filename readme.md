@@ -8,7 +8,7 @@
 [[aws]]: AWS Cloud
 
 ## Math
--[[]]
+-[[Concrete-Mathematics-2e]] 
 
 ## Programming
 - [[computer-science]]: Computer Science
@@ -16,6 +16,10 @@
 - [[programming-language]]: Programming Languages
 - [[machine-learning]]: Machine Learning
 - [[test]]: Test
+
+## Personal
+[[dailyStepUps]]: DailyStepUps
+[[design-thinking]]: Design Thinking
 
 ### Tools
 - [[quickly-create-simple-page]]: Mobirise Quickly Create simple html website tools

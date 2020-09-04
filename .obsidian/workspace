@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f52a615cb9872d46",
+        "id": "d94468b815e8c0e1",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "doc-ky-hieu-toan.md",
+            "file": "computer-science.md",
             "mode": "source"
           }
         }
@@ -42,7 +42,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -62,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doc-ky-hieu-toan.md"
+                "file": "computer-science.md"
               }
             }
           },
@@ -82,10 +83,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "doc-ky-hieu-toan.md",
-    "202008311527-Kiến-Thức-Toán-Trong-Lĩnh-Vực-Data-Science.md",
-    "202008311524-logarit.md",
-    "machine-learning.md",
-    "readme.md"
+    "computer-science.md",
+    "readme.md",
+    "design-thinking.md",
+    "dailyStepUps.md",
+    "doc-ky-hieu-toan.md"
   ]
 }
