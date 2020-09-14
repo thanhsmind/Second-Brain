@@ -36,10 +36,12 @@ hôm nay bạn thiết kế, tạo ra được điều gì mới?
 
 ### Bước 06
 Self-Report -- báo cáo bản thân
-bạn chiêm nghiệm, rút ra bài học sau khi thực thi, gửi cho chính
+bạn  chiêm nghiệm(reflection), rút ra bài học sau khi thực thi, gửi cho chính
 mình như một báo cáo cho tổng giám đốc tập đoàn.
-nếu bạn là CEO cuộc đời mình, bạn sẽ báo cáo bạn học được gfi
-hôm nay?
+**Phải được viết thành văn bản**
+nếu bạn là CEO cuộc đời mình, bạn sẽ báo cáo bạn học được gì hôm nay?
+
+Ex: 	" Hôm nay vẫn nói chuyên với con như bề trên "
 
 ### Bước 07
 Principle -- nguyên tắc
@@ -48,6 +50,8 @@ xử, phân tích, ra quyết định.
 nếu bạn rút lại bài học thành một nguyên tắc sống, bạn sẽ nói cho
 một đứa trẻ 15 tuổi như thế nào về nguyên tắc này để cậu bé hay
 cô bé đó có thể hiểu, tin và thực thi được?
+
+VD: Trò chuyện với con như người trưởng thành
 
 ### Bước 08
 MAP -- bản đồ
