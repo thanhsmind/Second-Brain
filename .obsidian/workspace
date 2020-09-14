@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d94468b815e8c0e1",
+        "id": "6d4cdccf0d785923",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-science.md",
+            "file": "DailyStepUps-template.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": "read"
+              }
             }
           }
         ],
@@ -63,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science.md"
+                "file": "DailyStepUps-template.md"
               }
             }
           },
@@ -83,10 +85,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "computer-science.md",
-    "readme.md",
-    "design-thinking.md",
+    "DailyStepUps-template.md",
     "dailyStepUps.md",
-    "doc-ky-hieu-toan.md"
+    "readme.md",
+    "flutter.md",
+    "how-to-understand-algorithm.md"
   ]
 }

@@ -23,7 +23,7 @@
       {
         "modifiers": [
           "Mod",
-          "Shift"
+          "Meta"
         ],
         "key": "ArrowLeft"
       }
