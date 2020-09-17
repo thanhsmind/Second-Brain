@@ -13,7 +13,9 @@
     "page-preview": true,
     "daily-notes": false,
     "zk-prefixer": true,
-    "random-note": true
+    "random-note": true,
+    "templates": true,
+    "outline": true
   },
   "alwaysUpdateLinks": true,
   "promptDelete": false,

@@ -4,16 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "6d4cdccf0d785923",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DailyStepUps-template.md",
-            "mode": "source"
+        "id": "6adf560b2179fe83",
+        "type": "split",
+        "children": [
+          {
+            "id": "add0df67da071ccf",
+            "type": "leaf",
+            "dimension": 69.53907815631263,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter-Gestures.md",
+                "mode": "source"
+              }
+            },
+            "group": "b945146648a6f99a"
+          },
+          {
+            "id": "198c76c2c66d0950",
+            "type": "leaf",
+            "dimension": 30.460921843687377,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flutter-Gestures.md"
+              }
+            },
+            "group": "b945146648a6f99a"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -44,12 +65,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b95a9438587ca7e",
@@ -65,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyStepUps-template.md"
+                "file": "Flutter-Gestures.md"
               }
             }
           },
@@ -76,6 +97,16 @@
               "type": "tag",
               "state": {}
             }
+          },
+          {
+            "id": "5db7b303f212299a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flutter-Gestures.md"
+              }
+            }
           }
         ]
       }
@@ -85,10 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "DailyStepUps-template.md",
-    "dailyStepUps.md",
-    "readme.md",
-    "flutter.md",
-    "how-to-understand-algorithm.md"
+    "Flutter-Gestures.md",
+    "flutter-basic.md",
+    "flutter-layout.md",
+    "Widget.md",
+    "Platform-independent-basic-widgets.md",
+    "State-maintenance-widgets.md",
+    "Layout-widgets.md",
+    "Platform-widgets.md",
+    "StatelessWidget.md",
+    "StatefulWidget.md"
   ]
 }

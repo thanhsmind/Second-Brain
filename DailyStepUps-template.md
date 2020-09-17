@@ -10,7 +10,7 @@ bạn xác định ý định thực thi một điều vượt trội so với t
 cho họ.
 hôm nay bạn chọn điều mới gì bạn sẽ làm để vượt trội chính
 mình?
-
+Ex: Bán hàng trong 5 phút 
 
 ### Bước 03
 Objective (OKRas) -- Mục tiêu, Kết quả then chốt, Hành động
@@ -91,3 +91,7 @@ là những đồng đội này ở sát cạnh bạn (đồng nghiệp ở côn
 đình).
 -- Nên chơi nhanh, ngắn, và chơi nhiều lượt mỗi ngày.
 -- Nên chơi đều mỗi ngày, bao gồm cả những ngày nghỉ.
+
+
+
+OKRas -. Sắp xếp theo kiểu câu hỏi câu trả lời 
