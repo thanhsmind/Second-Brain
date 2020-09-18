@@ -4,34 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6adf560b2179fe83",
+        "id": "0f238f9be3847111",
         "type": "split",
         "children": [
           {
-            "id": "add0df67da071ccf",
+            "id": "0297904ad3933836",
             "type": "leaf",
-            "dimension": 69.53907815631263,
+            "dimension": 78.15631262525051,
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter-Gestures.md",
-                "mode": "source"
+                "file": "StatefulWidget.md",
+                "mode": "preview"
               }
             },
-            "group": "b945146648a6f99a"
+            "group": "67eb6de86d25a4cc"
           },
           {
-            "id": "198c76c2c66d0950",
+            "id": "2475344ff5711947",
             "type": "leaf",
-            "dimension": 30.460921843687377,
+            "dimension": 21.843687374749504,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter-Gestures.md"
+                "file": "StatefulWidget.md"
               }
             },
-            "group": "b945146648a6f99a"
+            "group": "67eb6de86d25a4cc"
           }
         ],
         "direction": "horizontal"
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "read"
+                "query": "StateFull"
               }
             }
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 523
   },
   "right": {
     "id": "1b95a9438587ca7e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter-Gestures.md"
+                "file": "StatefulWidget.md"
               }
             }
           },
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter-Gestures.md"
+                "file": "StatefulWidget.md"
               }
             }
           }
@@ -116,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "StatefulWidget.md",
+    "aws-cloudfront.md",
+    "aws-edge-location.md",
+    "DailyStepUps-template.md",
     "Flutter-Gestures.md",
+    "Gesture.md",
     "flutter-basic.md",
-    "flutter-layout.md",
     "Widget.md",
-    "Platform-independent-basic-widgets.md",
-    "State-maintenance-widgets.md",
-    "Layout-widgets.md",
     "Platform-widgets.md",
-    "StatelessWidget.md",
-    "StatefulWidget.md"
+    "Layout-widgets.md"
   ]
 }
