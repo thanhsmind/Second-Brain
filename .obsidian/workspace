@@ -10,13 +10,13 @@
           {
             "id": "0297904ad3933836",
             "type": "leaf",
-            "dimension": 78.15631262525051,
+            "dimension": 78.1563126252505,
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StatefulWidget.md",
-                "mode": "preview"
+                "file": "asynchronous-in-dart.md",
+                "mode": "source"
               }
             },
             "group": "67eb6de86d25a4cc"
@@ -28,7 +28,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StatefulWidget.md"
+                "file": "asynchronous-in-dart.md"
               }
             },
             "group": "67eb6de86d25a4cc"
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523
+    "width": 523,
+    "collapsed": true
   },
   "right": {
     "id": "1b95a9438587ca7e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StatefulWidget.md"
+                "file": "asynchronous-in-dart.md"
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StatefulWidget.md"
+                "file": "asynchronous-in-dart.md"
               }
             }
           }
@@ -115,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "asynchronous-in-dart.md",
+    "dart.md",
+    "programming-language.md",
+    "flutter.md",
     "StatefulWidget.md",
     "aws-cloudfront.md",
     "aws-edge-location.md",
     "DailyStepUps-template.md",
     "Flutter-Gestures.md",
-    "Gesture.md",
-    "flutter-basic.md",
-    "Widget.md",
-    "Platform-widgets.md",
-    "Layout-widgets.md"
+    "Gesture.md"
   ]
 }
