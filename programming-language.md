@@ -3,9 +3,16 @@
 ## Flutter & Dart
 - [[flutter]]: Flutter
 - [[dart]]: Dart
+
 ## PHP Language
 - [[php-composer-version]]: Composer Version Setting
+- [[api-platform]]: API Platform
 
+## Javascript
+- [[typescript]] Typescript
+- [[javascript]] Javascript
+## GoLang
+- [[golang-build-todolist]] Build TodoList
 
 ## IDE
 - [[202008121135]]:  Reset Licensed to PhpStorm Evaluator
