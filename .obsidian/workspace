@@ -10,16 +10,28 @@
           {
             "id": "0297904ad3933836",
             "type": "leaf",
-            "dimension": 78.1563126252505,
+            "dimension": 39.07815631262525,
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "understand-javascript-this.md",
+                "file": "typescript-reactjs.md",
                 "mode": "source"
               }
             },
             "group": "67eb6de86d25a4cc"
+          },
+          {
+            "id": "7d7c3f5ed6d596e7",
+            "type": "leaf",
+            "dimension": 39.07815631262525,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript.md",
+                "mode": "source"
+              }
+            }
           },
           {
             "id": "2475344ff5711947",
@@ -28,7 +40,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "understand-javascript-this.md"
+                "file": "typescript-reactjs.md"
               }
             },
             "group": "67eb6de86d25a4cc"
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "understand-javascript-this.md"
+                "file": "typescript-reactjs.md"
               }
             }
           },
@@ -105,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "understand-javascript-this.md"
+                "file": "typescript-reactjs.md"
               }
             }
           }
@@ -117,15 +129,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "understand-javascript-this.md",
+    "typescript-reactjs.md",
+    "typescript.md",
+    "programming-language.md",
     "javascript.md",
+    "understand-javascript-this.md",
     "variable-declarations.md",
     "understand-javascript-function.md",
-    "programming-language.md",
-    "typescript.md",
     "react-admin-authentication.md",
     "api-platform-react-admin.md",
-    "api-platform.md",
-    "golang-build-todolist.md"
+    "api-platform.md"
   ]
 }
