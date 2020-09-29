@@ -15,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript-babel.md",
+                "file": "typescript.md",
                 "mode": "source"
               }
             },
@@ -28,7 +28,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript-babel.md"
+                "file": "typescript.md"
               }
             },
             "group": "f865189d5cbc1ff3"
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript-babel.md"
+                "file": "typescript.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript-babel.md"
+                "file": "typescript.md"
               }
             }
           }
@@ -116,8 +116,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "typescript-babel.md",
     "typescript.md",
+    "typescript-babel.md",
     "programming-language.md",
     "javascript.md",
     "javascript-babel.md",
