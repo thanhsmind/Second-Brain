@@ -10,40 +10,28 @@
           {
             "id": "0297904ad3933836",
             "type": "leaf",
-            "dimension": 39.07815631262525,
+            "dimension": 56.671899529042385,
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript-reactjs.md",
+                "file": "es6-destrucring-assignment.md",
                 "mode": "source"
               }
             },
-            "group": "67eb6de86d25a4cc"
+            "group": "f865189d5cbc1ff3"
           },
           {
-            "id": "7d7c3f5ed6d596e7",
+            "id": "95a07f8ae869ebb1",
             "type": "leaf",
-            "dimension": 39.07815631262525,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "2475344ff5711947",
-            "type": "leaf",
-            "dimension": 21.843687374749504,
+            "dimension": 43.328100470957615,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript-reactjs.md"
+                "file": "es6-destrucring-assignment.md"
               }
             },
-            "group": "67eb6de86d25a4cc"
+            "group": "f865189d5cbc1ff3"
           }
         ],
         "direction": "horizontal"
@@ -73,12 +61,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "read"
+                "query": "tag:#es6"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript-reactjs.md"
+                "file": "es6-destrucring-assignment.md"
               }
             }
           },
@@ -117,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript-reactjs.md"
+                "file": "es6-destrucring-assignment.md"
               }
             }
           }
@@ -129,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "typescript-reactjs.md",
-    "typescript.md",
-    "programming-language.md",
-    "javascript.md",
+    "es6-destrucring-assignment.md",
+    "ES6.md",
+    "es6-import-export.md",
+    "es6-arrow-function.md",
     "understand-javascript-this.md",
-    "variable-declarations.md",
+    "javascript.md",
     "understand-javascript-function.md",
-    "react-admin-authentication.md",
-    "api-platform-react-admin.md",
-    "api-platform.md"
+    "ECMAScript.md",
+    "es6-object-literal.md",
+    "es6-template-literal.md"
   ]
 }
