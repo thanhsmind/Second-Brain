@@ -10,12 +10,12 @@
           {
             "id": "0297904ad3933836",
             "type": "leaf",
-            "dimension": 56.671899529042385,
+            "dimension": 70.74148296593187,
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es6-destrucring-assignment.md",
+                "file": "typescript-babel.md",
                 "mode": "source"
               }
             },
@@ -24,11 +24,11 @@
           {
             "id": "95a07f8ae869ebb1",
             "type": "leaf",
-            "dimension": 43.328100470957615,
+            "dimension": 29.258517034068138,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es6-destrucring-assignment.md"
+                "file": "typescript-babel.md"
               }
             },
             "group": "f865189d5cbc1ff3"
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es6-destrucring-assignment.md"
+                "file": "typescript-babel.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es6-destrucring-assignment.md"
+                "file": "typescript-babel.md"
               }
             }
           }
@@ -116,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "es6-destrucring-assignment.md",
-    "ES6.md",
-    "es6-import-export.md",
-    "es6-arrow-function.md",
-    "understand-javascript-this.md",
+    "typescript-babel.md",
+    "typescript.md",
+    "programming-language.md",
     "javascript.md",
-    "understand-javascript-function.md",
+    "javascript-babel.md",
     "ECMAScript.md",
-    "es6-object-literal.md",
-    "es6-template-literal.md"
+    "ES6.md",
+    "es6-destrucring-assignment.md",
+    "es6-import-export.md",
+    "es6-arrow-function.md"
   ]
 }

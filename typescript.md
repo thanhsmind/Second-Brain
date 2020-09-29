@@ -43,6 +43,7 @@ Typescript có đuôi mở rộng là `.ts` nên file dùng để khai báo ph�
 - [[define-reactjs-component]]: Defind Reactjs Component
 -[[typescript-reactjs]]: Typescript support Reactjs
 -[[typescript-project-references]]: Typescript Project References
+-[[typescript-babel]]: How Typescript & Babel work together?
 
 
 
