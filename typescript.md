@@ -1,4 +1,7 @@
 # Typescript
+
+## [[Basic-TypeScript]]
+## [[React and TypeScript]]
 ## Cấu trúc project Typescript
 ```
 my-app/

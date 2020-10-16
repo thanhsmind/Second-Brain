@@ -1,6 +1,11 @@
 # Javascript
+-[[javascript-prototype]]: Prototype in Javascript
+-[[javascript-tools-ecosystem]]: Javascript Tools Ecosystem
 -[[javascript-babel]]: Babel
 -[[TSLint]]: Hệ thống kiểm tra javascript
 -[[variable-declarations]]: Khai báo biến trong javascript
 -[[understand-javascript-function]]: Understand Javascript Function
 -[[understand-javascript-this]]: Understand Javascript `this`
+-[[javascript-promise]]: Xử lý bất đồng bộ vớ Promise
+-[[javascript-cli]]: JavaScript CLI
+-[[javascript-securities]]: Securities

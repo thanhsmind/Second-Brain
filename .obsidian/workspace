@@ -4,34 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "0f238f9be3847111",
+        "id": "73a1982b912fd8ad",
         "type": "split",
         "children": [
           {
-            "id": "0297904ad3933836",
+            "id": "3062ecf6daff00da",
             "type": "leaf",
-            "dimension": 70.74148296593187,
+            "dimension": 67.13426853707415,
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript.md",
+                "file": "Utility Types.md",
                 "mode": "source"
               }
             },
-            "group": "f865189d5cbc1ff3"
+            "group": "0d3cb745479f3ece"
           },
           {
-            "id": "95a07f8ae869ebb1",
-            "type": "leaf",
-            "dimension": 29.258517034068138,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "typescript.md"
+            "id": "f3842bfcb35fb615",
+            "type": "split",
+            "dimension": 32.86573146292585,
+            "children": [
+              {
+                "id": "622c84df76716d34",
+                "type": "leaf",
+                "dimension": 50.22222222222222,
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Utility Types.md"
+                  }
+                },
+                "group": "0d3cb745479f3ece"
+              },
+              {
+                "id": "b90ed46a8b59e79e",
+                "type": "leaf",
+                "dimension": 49.77777777777778,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Utility Types.md",
+                    "options": {
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.8360386601669951
+                    }
+                  }
+                },
+                "group": "0d3cb745479f3ece"
               }
-            },
-            "group": "f865189d5cbc1ff3"
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -61,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#es6"
+                "query": "api"
               }
             }
           }
@@ -86,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript.md"
+                "file": "Utility Types.md"
               }
             }
           },
@@ -104,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript.md"
+                "file": "Utility Types.md"
               }
             }
           }
@@ -116,15 +155,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "typescript.md",
-    "typescript-babel.md",
-    "programming-language.md",
-    "javascript.md",
-    "javascript-babel.md",
-    "ECMAScript.md",
-    "ES6.md",
-    "es6-destrucring-assignment.md",
-    "es6-import-export.md",
-    "es6-arrow-function.md"
+    "Utility Types.md",
+    "construct-by-omit-type.md",
+    "omit-type.md",
+    "record-type.md",
+    "pick-type.md",
+    "readonly-type.md",
+    "partial-type.md",
+    "Types in TypeScript.md",
+    "Basic-TypeScript.md",
+    "typescript.md"
   ]
 }

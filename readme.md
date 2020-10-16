@@ -14,6 +14,7 @@
 - [[computer-science]]: Computer Science
 - [[computer-networking]]: Computer Networking
 - [[programming-language]]: Programming Languages
+- [[authentication-authorization]] Authentication & Authorization
 - [[algorithms]]: algorithms
 - [[machine-learning]]: Machine Learning
 - [[test]]: Test
